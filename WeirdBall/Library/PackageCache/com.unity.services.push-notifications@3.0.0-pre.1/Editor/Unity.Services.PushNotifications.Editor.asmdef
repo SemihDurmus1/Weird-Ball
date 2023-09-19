@@ -1,0 +1,13 @@
+{
+    "name": "Unity.Services.PushNotifications.Editor",
+    "references": [
+      "Unity.Services.PushNotifications",
+      "Unity.Services.Core",
+      "Unity.Services.Core.Internal",
+      "Unity.Services.Core.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
